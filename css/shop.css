@@ -1,0 +1,50 @@
+.our-product {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.our-product h1 {
+    color: #224F34;
+    font-family: Roboto Slab;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.our-product li a {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+.productsSales li {
+    margin-top: 30px;
+}
+
+
+
+.productsSales {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+
+
+.productsSales a {
+    text-decoration: none;
+    color: #000;
+}
+
+.productsSales a:hover {
+    border-bottom: 1px solid black;
+
+}
